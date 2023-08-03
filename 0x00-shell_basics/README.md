@@ -1,2 +1,2 @@
 #!/bin/bash
-The Basics of Shell nav
+Replacement REad me 
